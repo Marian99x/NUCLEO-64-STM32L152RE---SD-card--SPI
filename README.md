@@ -10,6 +10,6 @@ Things: 1. Nucleo 64 L152re
 Install programs:
 
 1. STM32cubeIDE - programming
-2. STM32cubeMX - configure microcontroler pinout
+2. STM32cubeMX - configure microcontroller pinout
 
 Open project from STM32cubeIDE. Programming and run on STM32l152re
